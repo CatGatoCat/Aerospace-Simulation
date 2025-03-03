@@ -1,0 +1,8 @@
+Aircraft Simulation
+
+Success = true
+Maximum Height = Infinity
+Total Mission Time = -Infinity
+Fuel Usage = 0.0
+Maximum Velocity = -Infinity
+Oxygen needed = -0.0
